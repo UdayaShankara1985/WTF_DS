@@ -114,17 +114,3 @@ main()
 
 }
 
-
-//
-//   insert_into_q
-//      function to insert into the queue 
-//
-void insert_into_q (Queue *Q, void *data)
-{
-    if (!q) return q;
-
-   memcpy (q->w_ptr, data, q->ele_size);
-   q->w_ptr += q->ele_size;
-
-   return q;
-}
