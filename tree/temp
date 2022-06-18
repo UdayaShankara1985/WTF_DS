@@ -1,0 +1,22 @@
+/*
+ *******************************************
+ *
+ *      Author: Udaya shankara KS, , Sushma
+ *                            
+ *******************************************
+ */
+
+#include "tree.h"
+
+
+tree*  create_tree_node (int data)
+{
+   tree *td;
+
+   td = (tree*)calloc(1, tree);
+   if (!td)  return NULL;
+
+   td->data = data;
+
+   return td;
+}

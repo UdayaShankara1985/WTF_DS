@@ -1,0 +1,4 @@
+https://medium.com/techie-delight/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f
+https://igotanoffer.com/blogs/tech/tree-interview-questions
+https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
+https://www.sanfoundry.com/c-program-to-display-tree-nodes-using-bfs-traversal/
